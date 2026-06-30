@@ -81,4 +81,18 @@ Issues in this repository may be visible to others. **Never post** passwords, pr
 
 ---
 
+## ☕ Support development
+
+Enjoying the Treasury system and want to support its development? Tips are always appreciated and help us keep improving the platform.
+
+You can send a tip to:
+
+```
+0xe1461E20BcdbE81658945d8b3570be28b0034166
+```
+
+> ⚠️ Double-check the address before sending. Crypto transactions are **irreversible**. Tips are entirely voluntary and non-refundable.
+
+---
+
 Thank you for helping us improve the Treasury system! 🙏
